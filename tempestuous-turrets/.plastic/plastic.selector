@@ -1,0 +1,4 @@
+repository "HACKTHENORTH@otgretz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
